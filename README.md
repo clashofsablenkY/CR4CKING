@@ -5,7 +5,7 @@ Sebuah tools untuk mengekrek :v
 ![](https://komarev.com/ghpvc/?username=CR4CKING&color=yellow)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+script+tool)](https://git.io/typing-svg)
 >
-Nama Pembuat SC: [**clashofsablenk**](https://github.com/clashofsablenkY)
+Coded By : [**clashofsablenk**](https://github.com/clashofsablenkY)
 > 
 ```
 Thanks to : Angga Sablenk
